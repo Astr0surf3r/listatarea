@@ -1,4 +1,7 @@
 Listatarea::Application.routes.draw do
+  get "tareas/index"
+  
+  root :to => "tareas#index"
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
