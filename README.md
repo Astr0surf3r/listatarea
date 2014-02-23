@@ -10,12 +10,16 @@ $ git clone git@github.com:Astr0surf3r/listatarea.git
 ```
 para descargar el branch 'scaffold'
 
-```ruby
+```linux
 git clone -b scaffold git@github.com:Astr0surf3r/listatarea.git
 ```
 
+```linux
 $ cd listatarea
-
+```
+```linux
 $ rake db:migrate
-
-$ rails s                
+```
+```linux
+$ rails s
+```                
