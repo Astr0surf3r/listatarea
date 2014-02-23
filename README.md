@@ -5,14 +5,14 @@ En eso repositorio tenemos 2 branch: 'master' y 'scaffold'
 
 para descargar el 'master' sigue el comando:
 
-´´´ruby
+```ruby
 $ git clone git@github.com:Astr0surf3r/listatarea.git
-´´´
+```
 para descargar el branch 'scaffold'
 
-´´´ruby
+```ruby
 git clone -b scaffold git@github.com:Astr0surf3r/listatarea.git
-´´´
+```
 
 $ cd listatarea
 
