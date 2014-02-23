@@ -1,5 +1,5 @@
 #Rumbo al curso de Ruby On Rails de GpoUrma
-#Branch Master
+##Branch Master
 
 En eso repositorio tenemos 2 branch: 'master' y 'scaffold'
 
