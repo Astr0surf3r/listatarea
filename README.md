@@ -5,7 +5,7 @@ En eso repositorio tenemos 2 branch: 'master' y 'scaffold'
 
 para descargar el 'master' sigue el comando:
 
-```ruby
+```linux
 $ git clone git@github.com:Astr0surf3r/listatarea.git
 ```
 para descargar el branch 'scaffold'
