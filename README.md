@@ -15,10 +15,17 @@ $ git clone -b scaffold git@github.com:Astr0surf3r/listatarea.git
 ```
 
 ```linux
+git clone -b scaffold git@github.com:Astr0surf3r/listatarea.git
+```
+
+```linux
 $ cd listatarea
 ```
+
 ```linux
 $ rake db:migrate
 ```
+
 ```linux
-$ rails s        
+$ rails s
+```            
